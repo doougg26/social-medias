@@ -41,3 +41,23 @@ iframe#screen{
     height: 471px;
 
 }
+#socialMedia{
+    text-align: justify;
+    
+}
+#socialMedia img{
+height: 50px;
+border-radius: 10px;
+box-shadow: 2px 2px 5px black;
+box-sizing: border-box;
+margin: 10px;
+}
+
+#socialMedia a img:hover{
+    height: 60px;
+    border: 2px solid lightslategray;
+    box-shadow: 5px 5px 10px black;
+    transition-duration: 500ms ;
+transform: translate(-3px,-3px);
+
+}
