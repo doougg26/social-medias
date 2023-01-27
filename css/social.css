@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+}
+img{
+    width: 100vw;
+    background-attachment: fixed;
+}
+::-webkit-scrollbar
+{
+    width: 0px;
+    height: 0px;
+}
+a{
+font-family: monospace;
+font-size: 2em;
+display: block;
+padding: 20px;
+text-align: center;
+border-radius: 5px;
+text-decoration: none;
+transition: 0.5s;
+}
+a:hover{
+font-weight: bold;
+transition: 0.5s;
+}

@@ -51,6 +51,7 @@ border-radius: 10px;
 box-shadow: 2px 2px 5px black;
 box-sizing: border-box;
 margin: 10px;
+transition-duration: 500ms ;
 }
 
 #socialMedia a img:hover{
